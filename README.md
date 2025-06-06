@@ -14,4 +14,4 @@ entering data and a display screen for
 displaying the results.
 
 
-# This is the Personalised Repository Specially for CodeAlpha Internship Program. Here the Task-1 is Present, which the Industry has Instructed.
+# This is the Personalised Repository Specially for CodeAlpha Internship Program. Here the Task-2 is Present, which the Industry has Instructed.
